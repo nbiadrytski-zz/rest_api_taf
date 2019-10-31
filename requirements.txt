@@ -1,0 +1,3 @@
+HtmlTestRunner=1.2
+jsonpath-rw==1.4.0
+requests==2.22.0
