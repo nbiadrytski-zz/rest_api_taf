@@ -1,0 +1,12 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# exclude html test reports folder
+results/*
+
+# exclude log files
+*.log
+
+# exclude .idea files
+.idea/
